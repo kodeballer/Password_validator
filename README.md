@@ -6,11 +6,11 @@ The password validator will check multiple aspects of a potential password and w
 
 The rules for the password validator are:
 
-Has at least one uppercase letter
-Has at least one lowercase letter
-Is at least 8 characters long
-Has at least one special character
-We can utilize functions to check for each of these requirements, then create a function to validate a user's password.
+* Has at least one uppercase letter
+* Has at least one lowercase letter
+* Is at least 8 characters long
+* Has at least one special character
+* We can utilize functions to check for each of these requirements, then create a function to validate a user's password.
 
 This program ls split into 5 functions:
 
